@@ -1,6 +1,5 @@
 manga
-sweet
-apples 
+soure apples 
 oranges 
 kiwis
 carrots
